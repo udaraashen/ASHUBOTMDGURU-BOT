@@ -1,6 +1,6 @@
 {
-    "name": "gurubot",
-    "version": "2.0.0",
+    "name": "Ashubot",
+    "version": "1.0.0",
     "description": "Advanced WhatsApp Bot",
     "main": "index.js",
     "type": "module",
@@ -19,22 +19,22 @@
         "whatsapp",
         "js-whatsapp",
         "whatsapp",
-        "guru-bot",
-        "GURU-bot-md",
+        "Ashu-bot",
+        "ASHU-bot-special",
         "multi-device",
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/Guru322/GURU-BOT",
+    "homepage": "https://github.com/udaraashen/ASHUBOT-SPECIAL",
     "author": {
-        "name": "GURU"
+        "name": "ASHU"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Guru322/GURU-BOT.git"
+        "url": "git+https://github.com/udaraashen/ASHUBOT-SPECIAL.git"
     },
     "bugs": {
-        "url": "https://github.com/Guru322/GURU-BOT/issues"
+        "url": "https://github.com/udaraashen/ASHUBOT-SPECIAL/issues"
     },
     "license": "Apache License 2.0",
     "dependencies": {
